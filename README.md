@@ -1,4 +1,4 @@
-# Hi, I'm Guilherme (aka Deep) 👋
+# Hi, I'm Guilherme (aka Deep) 👾
 
 **FullStack Developer | Building Scalable & User-Centric Solutions**
 
@@ -37,7 +37,7 @@ Professional developer since 2022 with a focus on solving business problems thro
 * **Portfolio:** [guifm.dev](https://guifm.dev)
 * **LinkedIn:** [/in/guilherme-fm](https://linkedin.com/in/guilherme-fortunato-machado)
 * **Current Location:** Curitiba, Brazil 🇧🇷
-* **Languages:** Portuguese (Native), English (B1/B2 Intermediate), Spanish (A1)
+* **Languages:** Portuguese (Native), English (B1/B2 Intermediate)
 
 ---
 <p align="center">
