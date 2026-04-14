@@ -35,7 +35,7 @@ Professional developer since 2022 with a focus on solving business problems thro
 
 ### 🌐 Connect with me
 * **Portfolio:** [guifm.dev](https://guifm.dev)
-* **LinkedIn:** [/in/guilherme-fm](https://linkedin.com/in/guilherme-fortunato-machado)
+* **LinkedIn:** [/in/guilherme-fortunato-machado](https://linkedin.com/in/guilherme-fortunato-machado)
 * **Current Location:** Curitiba, Brazil 🇧🇷
 * **Languages:** Portuguese (Native), English (B1/B2 Intermediate)
 
