@@ -1,4 +1,4 @@
-# Hi, I'm Guilherme (aka Deep) 👾
+# Hi, I'm Guilherme 👾
 
 **FullStack Developer | Building Scalable & User-Centric Solutions**
 
