@@ -1,4 +1,4 @@
-# Hi, I'm Guilherme 👾
+# Hi, I'm Guilherme 👋
 
 **FullStack Developer | Building Scalable & User-Centric Solutions**
 
@@ -19,10 +19,9 @@ Professional developer since 2022 with a focus on solving business problems thro
 ---
 
 ### 🚀 What I'm working on
-* **Amerigo Corporation:** Architecting a large-scale ecosystem as a FullStack & DevOps Developer, focusing on high availability and performance.
-* **Portfolio 2.0:** Migrating my personal ecosystem to a modern stack focused on motion design (React + Vite + Framer Motion).
-* **Upcoming SaaS:** Planning a production-ready SaaS project to showcase full-cycle product development.
-* **Continuous Learning:** Deep diving into Python for automation and expanding my backend expertise.
+- **Open to work:** Actively looking for a Junior or Internship Developer role — remote or based in Curitiba/PR.
+- **Continuous learning:** Studying what the market demands and sharpening my TypeScript/Next.js skills.
+- **Upcoming project:** Planning a practical SaaS to demonstrate full-cycle product development.
 
 ---
 
