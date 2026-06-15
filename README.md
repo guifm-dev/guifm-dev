@@ -1,6 +1,6 @@
 # Hi, I'm Guilherme 👋
 
-**FullStack Developer | Building Scalable & User-Centric Solutions**
+**Full-Stack Developer | Building Scalable & User-Centric Solutions**
 
 Professional developer since 2022 with a focus on solving business problems through clean code, automation, and infrastructure. Based in Brazil, I specialize in building end-to-end features, from high-performance front-ends to robust back-end integrations and DevOps.
 
