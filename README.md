@@ -27,7 +27,7 @@ Professional developer since 2022 with a focus on solving business problems thro
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guifm-dev&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&border_radius=10" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=guifm-dev" alt="GitHub Streak" /></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifm-dev&layout=compact&theme=transparent&hide=html,css&border_radius=10" />
 </p>
 
