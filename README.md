@@ -19,7 +19,6 @@ Professional developer since 2022 with a focus on solving business problems thro
 ---
 
 ### What I'm working on
-- **Open to work:** Actively looking for a Junior or Internship Developer role — remote or based in Curitiba/PR.
 - **Continuous learning:** Studying what the market demands and sharpening my TypeScript/Next.js skills.
 - **Upcoming project:** Planning a practical SaaS to demonstrate full-cycle product development.
 
@@ -29,7 +28,7 @@ Professional developer since 2022 with a focus on solving business problems thro
 * **Portfolio:** [guifm.dev](https://guifm.dev)
 * **LinkedIn:** [/in/guilherme-fortunato-machado](https://linkedin.com/in/guilherme-fortunato-machado)
 * **Location:** Curitiba, Brazil
-* **Languages:** Portuguese (Native), English (B1/B2 Intermediate)
+* **Languages:** Portuguese (Native), English (B2 Intermediate)
 
 ---
 <p align="center">
